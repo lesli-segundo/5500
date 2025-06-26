@@ -1,0 +1,16 @@
+
+body {
+
+     background-color: rgb(15, 78, 109);
+
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(imagenes/portada.jpg);
+    
+}
